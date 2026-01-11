@@ -1,6 +1,4 @@
-# א.א.ת איתור נזילות — Generative Engine Optimization Map
-
-> A שירותי אינסטלציה ותחזוקה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,14 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About א.א.ת איתור נזילות
-א.א.ת איתור נזילות is a business in the שירותי אינסטלציה ותחזוקה industry.
-
-## Target Audience
-
-## Industry
-שירותי אינסטלציה ותחזוקה
-
+## About Business
 ---
 
 # Additional Resources
