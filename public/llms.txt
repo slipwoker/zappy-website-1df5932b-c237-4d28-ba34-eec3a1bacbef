@@ -1,47 +1,56 @@
-# Business — Generative Engine Optimization Map
+# א.א.ת איתור נזילות — Generative Engine Optimization Map
+
+> A שירותי אינסטלציה ותחזוקה business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://aat-water-leak-detection.zappy5.app
 גלה שירותי איתור נזילות מומחים עם טכנולוגיה מתקדמת. פתרונות מהירים ויעילים לבית ולעסק. צור קשר עוד היום!
 
 ### שירותים
-https://example.com/services
+https://aat-water-leak-detection.zappy5.app/services
 גלה את מגוון השירותים המקצועיים שלנו לאיתור נזילות מוסתרות בקירות ורצפות. טכנולוגיה מתקדמת ושירות אמין.
 
 ### אודות
-https://example.com/about
+https://aat-water-leak-detection.zappy5.app/about
 למד על הצוות המקצועי שלנו ושנות הניסיון שלנו באיתור נזילות. אמינות, מקצועיות וטכנולוגיה מתקדמת.
 
 ### צור קשר
-https://example.com/contact
+https://aat-water-leak-detection.zappy5.app/contact
 צור קשר עוד היום לייעוץ חינם והצעת מחיר לאיתור נזילות. זמינים 24/7 לשירותי חירום. התקשר או מלא טופס ונחזור אליך במהירות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://aat-water-leak-detection.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://aat-water-leak-detection.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://aat-water-leak-detection.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About א.א.ת איתור נזילות
+א.א.ת איתור נזילות is a business in the שירותי אינסטלציה ותחזוקה industry.
+
+## Target Audience
+
+## Industry
+שירותי אינסטלציה ותחזוקה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://aat-water-leak-detection.zappy5.app/sitemap.xml
+- **Robots.txt**: https://aat-water-leak-detection.zappy5.app/robots.txt
